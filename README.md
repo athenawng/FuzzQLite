@@ -2,7 +2,7 @@
 
 ## Overview
 
-FuzzQLite is an automated testing tool developed as part of the Automated Software Testing course. It evaluates the reliability of SQLite database engines by employing various testing techniques such as mutation and generation-based fuzzing to detect crashes and logic bugs.
+FuzzQLite is an automated testing tool developed as part of the Automated Software Testing course at ETH Zurich. It evaluates the reliability of SQLite database engines by employing various testing techniques such as mutation and generation-based fuzzing to detect crashes and logic bugs.
 
 ## Features
 
